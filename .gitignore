@@ -34,8 +34,7 @@ app/etc/enterprise.xml
 app/etc/local.xml.additional
 app/etc/local.xml.template
 app/.htaccess
-.idea/*
-app/locale/en_US
+app/locale/
 app/Mage.php
 cron.php
 cron.sh
